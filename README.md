@@ -1,5 +1,7 @@
 # Trade-Depot-Analysis
 
+This Dataset contains 8904 rows and 20 columns
+
 	Needed output:									
 	1) Top Line Dashboard									
 	2) Analyse Sales Data									
