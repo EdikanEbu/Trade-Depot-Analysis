@@ -12,15 +12,15 @@ Orders - July, 2021
 
 Each row shows a line item as a component of an order."												
 												
-Fields____________________Definitions___________________________________________________________Guide
+Fields____________________Definitions______________________________________________________Guide
 
-OrderedAt Date____________The Order Date________________________________________________________All Analyses should be done USD
+OrderedAt Date____________The Order Date___________________________________________________All Analyses should be done USD
 
-Order No._________________The Unique Order Number for Each Order________________________________Exchange Rate
+Order No._________________The Unique Order Number for Each Order___________________________Exchange Rate
 
-Customer Name_____________Name Of The Retail Outlet_____________________________________________ZAR___R14.72	
+Customer Name_____________Name Of The Retail Outlet________________________________________ZAR___R14.72	
 
-outletType________________Classification of the Retail Outlet___________________________________NGN___₦402.00
+outletType________________Classification of the Retail Outlet______________________________NGN___₦402.00
 
 Producer__________________The Line Item Producer
 
