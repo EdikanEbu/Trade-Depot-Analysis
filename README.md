@@ -12,23 +12,40 @@ Orders - July, 2021
 
 Each row shows a line item as a component of an order."												
 												
-Fields	                 Definitions									                        Guide		
-OrderedAt Date 	         The Order Date									                      All Analyses should be done USD		
-Order No.	               The Unique Order Number for Each Order							  Exchange Rate		
-Customer Name	           Name Of The Retail Outlet									          ZAR	R14.72	
-outletType	             Classification of the Retail Outlet									NGN	₦402.00	
-Producer	               The Line Item Producer											
-Product	                 The Line Item Product											
-Category                 Group	The Broad Category of the Line Item											
-Category 	               The Line Item Product Category											
-Product                  Variant	The Line Item Stock Keeping Unit (SKU)											
-Quantity	               The Quantity Of The Line Item (SKU)											
-Unit Price	             The Unit Price Of The Line Item (SKU)											
-shippingStatus 	         The Fulfilment Status Of The Line Item (SKU)											
-Delivery Date 	         The Date Delivery Was Attempted											
-Delivery Agent 	         The Delivery Agent The Order Was Assigned To											
-State 	                 The State where the retailer's store is Located											
-Country	                 The Country Where The retailers store is Located											
-Currency	               The Currency The Order Is Denominated In											
-saleschannel 	           The Channel The Order Was Raised Through											
+Fields____________________Definitions___________________________________________________________Guide
 
+OrderedAt Date____________The Order Date________________________________________________________All Analyses should be done USD
+
+Order No._________________The Unique Order Number for Each Order________________________________Exchange Rate
+
+Customer Name_____________Name Of The Retail Outlet_____________________________________________ZAR___R14.72	
+
+outletType________________Classification of the Retail Outlet___________________________________NGN___₦402.00
+
+Producer__________________The Line Item Producer
+
+Product___________________The Line Item Product
+
+CategoryGroup_____________The Broad Category of the Line Item
+
+Category__________________The Line Item Product Category
+
+ProductVariant____________The Line Item Stock Keeping Unit (SKU)
+
+Quantity__________________The Quantity Of The Line Item (SKU)
+
+Unit Price________________The Unit Price Of The Line Item (SKU)
+
+shippingStatus____________The Fulfilment Status Of The Line Item (SKU)
+
+Delivery Date_____________The Date Delivery Was Attempted
+
+Delivery Agent____________The Delivery Agent The Order Was Assigned To
+
+State_____________________The State where the retailer's store is Located
+
+Country___________________The Country Where The retailers store is Located
+
+Currency__________________The Currency The Order Is Denominated In
+
+saleschannel______________The Channel The Order Was Raised Through											
