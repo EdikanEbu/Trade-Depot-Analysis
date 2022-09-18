@@ -48,4 +48,9 @@ Country___________________The Country Where The retailers store is Located
 
 Currency__________________The Currency The Order Is Denominated In
 
-saleschannel______________The Channel The Order Was Raised Through											
+saleschannel______________The Channel The Order Was Raised Through				
+![TradeDepot](https://user-images.githubusercontent.com/106774295/190921302-47015963-5f90-4504-a075-a4d478094b91.PNG)
+![TradeDepot2](https://user-images.githubusercontent.com/106774295/190921448-bcf77218-8ed1-4ff5-96f9-11c0d35ed808.PNG)
+
+
+
